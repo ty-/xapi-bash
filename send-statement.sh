@@ -7,7 +7,7 @@ USER="xapi-tools"
 PASS="xapi-tools"
 AUTH=$(echo -n "$USER:$PASS" | base64)
 
-# Alrady encoded AUTH 
+# Already encoded AUTH 
 #AUTH="eGFwaS10b29sczp4YXBpLXRvb2xz"
 
 
